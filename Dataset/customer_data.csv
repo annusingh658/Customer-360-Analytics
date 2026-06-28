@@ -1,0 +1,501 @@
+﻿Sum of Monetary,city,Sum of age,gender,Sum of RFM_Score,Segment,customer_segment,Sum of Frequency,Sum of Recency,customer_id
+557684,Delhi,58,Male,3,At Risk,Budget,6,123,C0001
+1455050,Mumbai,33,Male,11,Loyal Customers,Budget,16,61,C0002
+856505,Hyderabad,61,Male,8,Potential Loyal,Regular,12,61,C0003
+737491,Mumbai,19,Male,10,Loyal Customers,Premium,11,4,C0004
+724011,Hyderabad,56,Male,4,At Risk,Premium,7,108,C0005
+830905,Mumbai,62,Female,7,Potential Loyal,Regular,10,56,C0006
+792303,Mumbai,35,Male,8,Potential Loyal,Budget,9,11,C0007
+1245310,Mumbai,39,Female,13,Champions,Premium,14,27,C0008
+1900940,Pune,24,Male,15,Champions,Premium,17,5,C0009
+407413,Delhi,40,Female,4,At Risk,Budget,5,38,C0010
+1855660,Pune,52,Male,14,Champions,Premium,16,16,C0011
+1343930,Hyderabad,36,Female,13,Champions,Premium,14,21,C0012
+652911,Chennai,22,Male,7,Potential Loyal,Premium,9,29,C0013
+868977,Delhi,23,Male,8,Potential Loyal,Regular,12,73,C0014
+811310,Mumbai,47,Female,5,At Risk,Regular,6,267,C0015
+1063690,Chennai,31,Female,9,Potential Loyal,Budget,13,75,C0016
+765760,Hyderabad,22,Male,9,Potential Loyal,Budget,8,3,C0017
+847091,Pune,28,Female,10,Loyal Customers,Regular,8,4,C0018
+1402320,Chennai,62,Male,15,Champions,Regular,15,4,C0019
+998692,Bangalore,32,Male,13,Champions,Regular,13,0,C0020
+463236,Hyderabad,22,Male,3,At Risk,Budget,6,195,C0021
+1078500,Pune,31,Female,14,Champions,Budget,19,0,C0022
+1257140,Mumbai,27,Female,11,Loyal Customers,Premium,13,45,C0023
+1671120,Chennai,52,Female,14,Champions,Budget,12,5,C0024
+920164,Bangalore,55,Female,10,Loyal Customers,Premium,8,5,C0025
+1640940,Delhi,50,Female,14,Champions,Premium,16,10,C0026
+677859,Chennai,27,Male,8,Potential Loyal,Regular,5,7,C0027
+1392080,Pune,22,Female,12,Loyal Customers,Budget,18,41,C0028
+332188,Hyderabad,51,Female,6,At Risk,Premium,8,27,C0029
+857539,Chennai,64,Male,6,At Risk,Budget,7,39,C0030
+957206,Delhi,59,Female,11,Loyal Customers,Regular,10,5,C0031
+868990,Delhi,28,Female,7,Potential Loyal,Budget,9,37,C0032
+1063190,Hyderabad,50,Male,11,Loyal Customers,Premium,9,0,C0033
+1259650,Mumbai,37,Male,12,Loyal Customers,Regular,10,12,C0034
+1206970,Hyderabad,52,Male,9,Potential Loyal,Regular,11,72,C0035
+268582,Bangalore,19,Male,6,At Risk,Regular,5,14,C0036
+685309,Hyderabad,21,Male,8,Potential Loyal,Premium,8,9,C0037
+1005730,Delhi,64,Female,6,At Risk,Budget,7,82,C0038
+441592,Hyderabad,26,Female,4,At Risk,Premium,6,54,C0039
+1114970,Mumbai,51,Female,12,Loyal Customers,Budget,11,5,C0040
+1031060,Pune,30,Female,11,Loyal Customers,Budget,13,20,C0041
+64609,Hyderabad,41,Female,5,At Risk,Regular,3,33,C0042
+607981,Delhi,33,Male,9,Potential Loyal,Regular,11,1,C0043
+1185870,Hyderabad,55,Male,8,Potential Loyal,Premium,10,84,C0044
+429962,Mumbai,22,Male,6,At Risk,Premium,8,23,C0045
+395689,Hyderabad,39,Male,3,At Risk,Premium,6,91,C0046
+1583360,Mumbai,60,Female,13,Champions,Budget,16,25,C0047
+541598,Mumbai,64,Female,3,At Risk,Regular,5,99,C0048
+1019300,Delhi,30,Male,7,Potential Loyal,Budget,9,95,C0049
+972541,Pune,40,Female,11,Loyal Customers,Regular,10,2,C0050
+955990,Delhi,61,Male,6,At Risk,Regular,9,90,C0051
+1364620,Mumbai,24,Male,12,Loyal Customers,Premium,17,41,C0052
+1321510,Pune,46,Male,10,Loyal Customers,Premium,11,35,C0053
+919717,Delhi,47,Male,6,At Risk,Regular,9,62,C0054
+609013,Chennai,24,Male,6,At Risk,Budget,10,142,C0055
+768181,Mumbai,23,Male,7,Potential Loyal,Regular,8,25,C0056
+812126,Pune,48,Male,10,Loyal Customers,Premium,10,17,C0057
+1315780,Pune,42,Male,12,Loyal Customers,Regular,17,38,C0058
+1232250,Chennai,36,Female,11,Loyal Customers,Budget,14,56,C0059
+500180,Mumbai,60,Female,7,Potential Loyal,Premium,7,1,C0060
+516198,Hyderabad,31,Male,6,At Risk,Budget,7,9,C0061
+977422,Delhi,21,Female,12,Loyal Customers,Premium,13,10,C0062
+707795,Delhi,48,Male,5,At Risk,Budget,8,104,C0063
+263149,Hyderabad,29,Male,5,At Risk,Premium,6,30,C0064
+578289,Delhi,33,Female,7,Potential Loyal,Budget,8,12,C0065
+1728510,Hyderabad,55,Male,13,Champions,Premium,15,21,C0066
+807864,Bangalore,60,Female,8,Potential Loyal,Premium,8,20,C0067
+1335030,Mumbai,63,Female,13,Champions,Regular,17,21,C0068
+1100550,Pune,26,Female,8,Potential Loyal,Regular,11,72,C0069
+295922,Hyderabad,18,Female,5,At Risk,Budget,8,44,C0070
+719955,Hyderabad,22,Male,8,Potential Loyal,Regular,7,3,C0071
+1106680,Mumbai,40,Male,8,Potential Loyal,Regular,10,113,C0072
+841261,Hyderabad,28,Female,8,Potential Loyal,Budget,7,18,C0073
+648432,Chennai,57,Male,4,At Risk,Budget,7,65,C0074
+355377,Mumbai,60,Male,6,At Risk,Regular,6,17,C0075
+325573,Bangalore,24,Male,6,At Risk,Regular,8,25,C0076
+1098000,Mumbai,31,Female,10,Loyal Customers,Budget,16,63,C0077
+472190,Bangalore,34,Female,7,Potential Loyal,Premium,8,18,C0078
+1206040,Bangalore,58,Female,13,Champions,Premium,13,3,C0079
+1007540,Chennai,39,Male,12,Loyal Customers,Regular,11,6,C0080
+1147140,Hyderabad,65,Female,9,Potential Loyal,Budget,9,33,C0081
+653335,Delhi,53,Male,4,At Risk,Premium,5,65,C0082
+867951,Bangalore,27,Male,10,Loyal Customers,Budget,13,24,C0083
+1162990,Mumbai,27,Female,11,Loyal Customers,Premium,14,34,C0084
+1230380,Bangalore,41,Male,11,Loyal Customers,Premium,13,45,C0085
+1301320,Bangalore,33,Male,13,Champions,Budget,15,30,C0086
+453561,Mumbai,57,Male,7,Potential Loyal,Premium,10,26,C0087
+829718,Mumbai,44,Male,11,Loyal Customers,Budget,10,1,C0088
+976485,Bangalore,44,Male,12,Loyal Customers,Premium,11,1,C0089
+870371,Delhi,24,Female,8,Potential Loyal,Regular,9,23,C0090
+1498060,Bangalore,30,Female,14,Champions,Regular,14,12,C0091
+1124280,Chennai,32,Male,13,Champions,Premium,18,17,C0092
+1417470,Delhi,39,Female,12,Loyal Customers,Regular,9,6,C0093
+957077,Chennai,59,Female,12,Loyal Customers,Budget,13,8,C0094
+1434410,Bangalore,19,Male,14,Champions,Premium,14,10,C0095
+1041020,Delhi,34,Male,10,Loyal Customers,Budget,11,20,C0096
+992977,Pune,40,Female,10,Loyal Customers,Budget,12,42,C0097
+796821,Hyderabad,25,Female,7,Potential Loyal,Premium,9,30,C0098
+523327,Delhi,20,Female,6,At Risk,Budget,5,18,C0099
+1000500,Bangalore,61,Male,9,Potential Loyal,Regular,10,34,C0100
+535087,Hyderabad,60,Female,5,At Risk,Regular,7,28,C0101
+944650,Hyderabad,25,Female,10,Loyal Customers,Regular,13,30,C0102
+1121670,Pune,44,Female,10,Loyal Customers,Budget,13,35,C0103
+1363980,Mumbai,53,Male,11,Loyal Customers,Regular,13,43,C0104
+1428600,Hyderabad,42,Male,14,Champions,Budget,14,12,C0105
+634778,Bangalore,43,Male,7,Potential Loyal,Regular,9,25,C0106
+821512,Pune,45,Female,8,Potential Loyal,Regular,7,13,C0107
+1198390,Hyderabad,61,Male,10,Loyal Customers,Regular,13,50,C0108
+864734,Bangalore,60,Male,8,Potential Loyal,Budget,11,35,C0109
+587441,Delhi,58,Female,6,At Risk,Premium,7,19,C0110
+807731,Mumbai,37,Male,5,At Risk,Premium,7,107,C0111
+1108280,Pune,20,Male,12,Loyal Customers,Budget,11,4,C0112
+1390220,Chennai,47,Female,12,Loyal Customers,Budget,15,39,C0113
+1548440,Pune,63,Female,15,Champions,Regular,16,0,C0114
+1025070,Delhi,27,Male,9,Potential Loyal,Regular,9,20,C0115
+1145850,Delhi,29,Female,10,Loyal Customers,Budget,11,29,C0116
+1206760,Mumbai,25,Female,15,Champions,Regular,14,7,C0117
+641543,Pune,51,Female,7,Potential Loyal,Budget,9,20,C0118
+596462,Mumbai,45,Female,5,At Risk,Budget,6,25,C0119
+509631,Mumbai,46,Female,6,At Risk,Budget,5,19,C0120
+994904,Chennai,51,Female,7,Potential Loyal,Premium,9,77,C0121
+1004010,Chennai,46,Male,11,Loyal Customers,Regular,8,8,C0122
+769432,Bangalore,35,Female,6,At Risk,Budget,6,29,C0123
+1254720,Mumbai,26,Male,13,Champions,Regular,11,3,C0124
+672214,Delhi,27,Male,9,Potential Loyal,Regular,10,12,C0125
+1365620,Pune,39,Female,12,Loyal Customers,Premium,19,41,C0126
+1049490,Hyderabad,44,Female,9,Potential Loyal,Budget,9,22,C0127
+711848,Pune,54,Female,8,Potential Loyal,Premium,10,21,C0128
+908276,Pune,37,Female,7,Potential Loyal,Budget,9,42,C0129
+804070,Pune,56,Male,9,Potential Loyal,Premium,8,11,C0130
+968676,Delhi,45,Female,6,At Risk,Regular,9,84,C0131
+706208,Chennai,60,Female,5,At Risk,Premium,7,37,C0132
+908479,Pune,26,Male,7,Potential Loyal,Budget,9,43,C0133
+1069510,Delhi,60,Male,10,Loyal Customers,Budget,10,28,C0134
+1134670,Mumbai,26,Female,11,Loyal Customers,Premium,13,23,C0135
+652017,Mumbai,42,Female,7,Potential Loyal,Regular,6,14,C0136
+702447,Bangalore,39,Female,8,Potential Loyal,Regular,9,9,C0137
+911918,Delhi,23,Female,7,Potential Loyal,Budget,9,35,C0138
+684113,Mumbai,21,Female,10,Loyal Customers,Budget,11,4,C0139
+694813,Delhi,59,Male,4,At Risk,Premium,3,183,C0140
+1321490,Mumbai,19,Male,11,Loyal Customers,Premium,13,40,C0141
+672261,Hyderabad,60,Male,4,At Risk,Premium,7,82,C0142
+752451,Bangalore,62,Female,7,Potential Loyal,Premium,8,23,C0143
+240254,Mumbai,56,Male,3,At Risk,Regular,5,61,C0144
+744944,Bangalore,55,Male,7,Potential Loyal,Budget,9,22,C0145
+1124810,Chennai,42,Female,8,Potential Loyal,Premium,11,101,C0146
+627504,Delhi,55,Male,6,At Risk,Budget,7,32,C0147
+847121,Hyderabad,61,Male,7,Potential Loyal,Premium,10,72,C0148
+844558,Chennai,52,Female,10,Loyal Customers,Regular,14,49,C0149
+693800,Delhi,50,Female,7,Potential Loyal,Regular,10,43,C0150
+757948,Bangalore,24,Female,6,At Risk,Budget,10,61,C0151
+822820,Pune,63,Male,11,Loyal Customers,Premium,10,2,C0152
+1275410,Hyderabad,59,Female,12,Loyal Customers,Budget,9,4,C0153
+1094620,Chennai,47,Female,9,Potential Loyal,Budget,11,53,C0154
+924990,Delhi,38,Male,7,Potential Loyal,Regular,11,79,C0155
+1144760,Hyderabad,33,Female,11,Loyal Customers,Budget,12,20,C0156
+1030720,Delhi,42,Female,9,Potential Loyal,Regular,7,15,C0157
+934455,Mumbai,29,Female,11,Loyal Customers,Regular,10,4,C0158
+841356,Hyderabad,39,Female,9,Potential Loyal,Budget,9,15,C0159
+1610280,Hyderabad,53,Male,10,Loyal Customers,Premium,12,108,C0160
+1582110,Pune,33,Female,13,Champions,Budget,14,22,C0161
+760844,Chennai,62,Female,8,Potential Loyal,Budget,10,20,C0162
+1158960,Delhi,46,Male,10,Loyal Customers,Regular,11,29,C0163
+799939,Bangalore,43,Male,10,Loyal Customers,Budget,8,2,C0164
+665299,Hyderabad,41,Female,7,Potential Loyal,Budget,11,48,C0165
+881013,Bangalore,45,Female,7,Potential Loyal,Budget,9,50,C0166
+712773,Bangalore,35,Female,5,At Risk,Premium,9,104,C0167
+1029690,Bangalore,64,Male,12,Loyal Customers,Premium,12,11,C0168
+751990,Mumbai,62,Male,9,Potential Loyal,Premium,8,2,C0169
+1149750,Delhi,35,Female,9,Potential Loyal,Premium,12,64,C0170
+994087,Mumbai,32,Female,12,Loyal Customers,Regular,11,0,C0171
+773432,Bangalore,63,Male,5,At Risk,Premium,9,78,C0172
+1155540,Chennai,53,Female,9,Potential Loyal,Premium,9,29,C0173
+1055220,Delhi,49,Male,11,Loyal Customers,Budget,10,14,C0174
+1579860,Pune,48,Female,13,Champions,Regular,12,13,C0175
+1003090,Pune,21,Female,10,Loyal Customers,Premium,9,14,C0176
+1260170,Delhi,43,Female,12,Loyal Customers,Budget,10,14,C0177
+743758,Mumbai,61,Male,7,Potential Loyal,Premium,8,25,C0178
+721357,Mumbai,37,Male,8,Potential Loyal,Premium,7,5,C0179
+991466,Hyderabad,44,Male,8,Potential Loyal,Regular,6,31,C0180
+975176,Hyderabad,46,Female,8,Potential Loyal,Regular,10,34,C0181
+821373,Hyderabad,54,Male,7,Potential Loyal,Budget,8,37,C0182
+580427,Bangalore,31,Male,7,Potential Loyal,Budget,5,0,C0183
+676744,Mumbai,28,Male,5,At Risk,Budget,8,109,C0184
+658782,Pune,28,Male,6,At Risk,Regular,8,45,C0185
+352539,Bangalore,56,Female,6,At Risk,Premium,6,18,C0186
+727517,Chennai,36,Female,6,At Risk,Regular,6,33,C0187
+920460,Bangalore,61,Male,10,Loyal Customers,Budget,9,3,C0188
+875958,Pune,60,Male,9,Potential Loyal,Premium,10,28,C0189
+822819,Bangalore,32,Male,12,Loyal Customers,Premium,13,3,C0190
+1060320,Bangalore,21,Male,13,Champions,Budget,13,8,C0191
+1418310,Delhi,36,Female,10,Loyal Customers,Regular,12,68,C0192
+1154220,Bangalore,37,Female,12,Loyal Customers,Budget,14,22,C0193
+921921,Delhi,49,Female,13,Champions,Budget,15,5,C0194
+284309,Hyderabad,45,Female,6,At Risk,Regular,6,14,C0195
+975851,Chennai,23,Male,9,Potential Loyal,Budget,10,42,C0196
+1415560,Hyderabad,19,Female,13,Champions,Premium,12,13,C0197
+887443,Bangalore,48,Female,9,Potential Loyal,Premium,6,1,C0198
+1132350,Delhi,45,Female,13,Champions,Regular,12,8,C0199
+752507,Bangalore,44,Female,6,At Risk,Budget,8,42,C0200
+1073180,Pune,28,Female,13,Champions,Budget,14,11,C0201
+417205,Hyderabad,36,Female,6,At Risk,Premium,8,28,C0202
+1053450,Bangalore,23,Female,11,Loyal Customers,Regular,9,1,C0203
+742347,Chennai,43,Male,11,Loyal Customers,Budget,14,17,C0204
+974864,Mumbai,44,Male,12,Loyal Customers,Budget,13,8,C0205
+1237690,Chennai,57,Female,11,Loyal Customers,Regular,13,48,C0206
+753902,Hyderabad,31,Female,10,Loyal Customers,Premium,13,10,C0207
+741348,Delhi,46,Female,10,Loyal Customers,Premium,11,3,C0208
+315448,Chennai,56,Male,4,At Risk,Premium,5,35,C0209
+374653,Hyderabad,53,Male,9,Potential Loyal,Regular,10,2,C0210
+413335,Pune,32,Male,3,At Risk,Premium,5,130,C0211
+780123,Chennai,27,Female,4,At Risk,Regular,7,90,C0212
+1188990,Pune,63,Female,11,Loyal Customers,Regular,12,20,C0213
+708883,Hyderabad,33,Female,6,At Risk,Premium,9,35,C0214
+1794340,Delhi,30,Male,15,Champions,Regular,18,1,C0215
+638955,Delhi,39,Female,6,At Risk,Regular,9,37,C0216
+1016030,Mumbai,55,Female,13,Champions,Regular,14,13,C0217
+1398520,Bangalore,48,Female,11,Loyal Customers,Budget,12,40,C0218
+1507540,Bangalore,42,Female,12,Loyal Customers,Premium,15,52,C0219
+612317,Mumbai,33,Female,7,Potential Loyal,Regular,6,10,C0220
+700144,Chennai,38,Female,8,Potential Loyal,Regular,11,26,C0221
+877106,Pune,60,Male,9,Potential Loyal,Premium,10,21,C0222
+885451,Delhi,50,Female,13,Champions,Regular,15,6,C0223
+442944,Delhi,51,Female,3,At Risk,Budget,6,139,C0224
+595770,Delhi,44,Male,7,Potential Loyal,Regular,8,13,C0225
+910112,Chennai,39,Female,11,Loyal Customers,Premium,10,0,C0226
+327922,Bangalore,61,Female,4,At Risk,Budget,5,42,C0227
+580757,Hyderabad,52,Male,4,At Risk,Premium,6,40,C0228
+968263,Mumbai,58,Female,10,Loyal Customers,Budget,9,8,C0229
+543031,Chennai,45,Male,5,At Risk,Budget,8,45,C0230
+1395950,Chennai,46,Male,14,Champions,Regular,13,3,C0231
+697486,Delhi,20,Female,10,Loyal Customers,Regular,12,16,C0232
+1734150,Mumbai,41,Female,13,Champions,Premium,17,27,C0233
+251804,Mumbai,44,Male,3,At Risk,Premium,2,61,C0234
+934207,Hyderabad,57,Female,5,At Risk,Budget,7,209,C0235
+587349,Mumbai,49,Male,7,Potential Loyal,Regular,8,17,C0236
+779121,Bangalore,34,Female,9,Potential Loyal,Budget,10,10,C0237
+1517730,Chennai,47,Female,15,Champions,Budget,14,2,C0238
+110206,Bangalore,22,Female,4,At Risk,Budget,3,53,C0239
+199572,Chennai,58,Female,3,At Risk,Regular,3,150,C0240
+1169190,Pune,37,Male,8,Potential Loyal,Regular,9,35,C0241
+929104,Hyderabad,33,Female,8,Potential Loyal,Regular,7,17,C0242
+1777230,Delhi,36,Female,14,Champions,Budget,17,10,C0243
+814618,Hyderabad,35,Male,10,Loyal Customers,Budget,9,4,C0244
+782396,Bangalore,56,Female,11,Loyal Customers,Premium,14,16,C0245
+2230760,Chennai,40,Male,14,Champions,Premium,20,17,C0246
+756845,Chennai,34,Male,7,Potential Loyal,Premium,11,42,C0247
+803282,Bangalore,59,Male,6,At Risk,Regular,9,73,C0248
+492744,Chennai,55,Female,9,Potential Loyal,Premium,11,5,C0249
+1358460,Chennai,36,Female,9,Potential Loyal,Regular,9,35,C0250
+585956,Hyderabad,30,Male,6,At Risk,Regular,11,37,C0251
+1530250,Mumbai,50,Female,12,Loyal Customers,Regular,14,34,C0252
+944683,Delhi,36,Female,12,Loyal Customers,Regular,12,3,C0253
+1029530,Chennai,27,Male,12,Loyal Customers,Budget,13,19,C0254
+825759,Delhi,43,Female,12,Loyal Customers,Regular,12,3,C0255
+1077400,Pune,34,Male,8,Potential Loyal,Regular,10,65,C0256
+716363,Hyderabad,65,Female,9,Potential Loyal,Regular,11,13,C0257
+1676820,Chennai,41,Male,14,Champions,Premium,19,9,C0258
+978524,Hyderabad,19,Female,9,Potential Loyal,Premium,7,11,C0259
+1248560,Chennai,22,Female,11,Loyal Customers,Regular,10,28,C0260
+575590,Mumbai,44,Male,7,Potential Loyal,Premium,6,0,C0261
+690958,Delhi,37,Female,7,Potential Loyal,Premium,6,13,C0262
+571774,Pune,52,Male,3,At Risk,Regular,6,76,C0263
+387749,Hyderabad,60,Female,5,At Risk,Budget,5,28,C0264
+787275,Pune,44,Male,6,At Risk,Budget,10,101,C0265
+810552,Chennai,35,Male,7,Potential Loyal,Regular,8,54,C0266
+1532730,Mumbai,46,Female,14,Champions,Regular,13,7,C0267
+1050100,Hyderabad,61,Female,8,Potential Loyal,Budget,10,57,C0268
+938039,Bangalore,21,Female,9,Potential Loyal,Premium,12,55,C0269
+939164,Chennai,47,Male,8,Potential Loyal,Premium,8,26,C0270
+1302800,Delhi,58,Male,13,Champions,Regular,11,7,C0271
+764773,Delhi,26,Male,8,Potential Loyal,Budget,9,18,C0272
+1164560,Mumbai,55,Male,12,Loyal Customers,Regular,12,15,C0273
+864392,Bangalore,56,Male,9,Potential Loyal,Premium,8,14,C0274
+633754,Mumbai,52,Female,8,Potential Loyal,Premium,8,19,C0275
+1038700,Delhi,19,Male,11,Loyal Customers,Regular,12,29,C0276
+1027700,Delhi,55,Female,8,Potential Loyal,Premium,11,72,C0277
+1098440,Chennai,21,Male,11,Loyal Customers,Regular,12,27,C0278
+563225,Pune,25,Male,6,At Risk,Regular,7,15,C0279
+565045,Pune,50,Male,3,At Risk,Budget,7,65,C0280
+635743,Chennai,57,Male,7,Potential Loyal,Budget,10,51,C0281
+398240,Chennai,37,Female,4,At Risk,Premium,6,37,C0282
+265714,Pune,48,Female,3,At Risk,Budget,5,59,C0283
+561887,Delhi,49,Female,3,At Risk,Premium,6,66,C0284
+727659,Delhi,56,Male,6,At Risk,Premium,9,36,C0285
+658785,Pune,57,Female,8,Potential Loyal,Budget,12,38,C0286
+1080580,Hyderabad,36,Female,10,Loyal Customers,Budget,10,32,C0287
+1800040,Chennai,24,Male,15,Champions,Budget,16,6,C0288
+939317,Pune,64,Male,8,Potential Loyal,Regular,12,67,C0289
+1117860,Pune,44,Female,13,Champions,Regular,15,15,C0290
+839575,Bangalore,64,Male,9,Potential Loyal,Regular,13,35,C0291
+1127890,Bangalore,60,Female,10,Loyal Customers,Premium,11,30,C0292
+1434460,Delhi,48,Male,13,Champions,Premium,15,32,C0293
+1062450,Chennai,45,Male,11,Loyal Customers,Budget,12,24,C0294
+911331,Hyderabad,26,Male,7,Potential Loyal,Budget,11,91,C0295
+787511,Pune,39,Male,11,Loyal Customers,Regular,14,15,C0296
+576660,Bangalore,45,Male,5,At Risk,Budget,6,29,C0297
+1058630,Hyderabad,40,Male,9,Potential Loyal,Budget,10,44,C0298
+877573,Mumbai,27,Female,8,Potential Loyal,Premium,7,11,C0299
+1409740,Delhi,53,Female,14,Champions,Regular,16,13,C0300
+1180030,Hyderabad,32,Female,10,Loyal Customers,Budget,12,36,C0301
+1780300,Hyderabad,61,Male,9,Potential Loyal,Budget,11,73,C0302
+692491,Mumbai,35,Male,7,Potential Loyal,Regular,7,19,C0303
+718792,Bangalore,37,Female,11,Loyal Customers,Premium,13,5,C0304
+397074,Delhi,27,Female,7,Potential Loyal,Premium,6,6,C0305
+1444390,Chennai,19,Male,14,Champions,Budget,12,5,C0306
+1826920,Pune,42,Female,14,Champions,Regular,18,13,C0307
+807559,Chennai,41,Female,9,Potential Loyal,Regular,9,19,C0308
+292774,Delhi,56,Male,7,Potential Loyal,Premium,5,7,C0309
+689779,Chennai,57,Male,8,Potential Loyal,Premium,8,16,C0310
+1238330,Pune,46,Female,13,Champions,Budget,13,13,C0311
+601766,Mumbai,44,Female,8,Potential Loyal,Budget,9,0,C0312
+1403460,Delhi,40,Female,12,Loyal Customers,Regular,11,13,C0313
+1280500,Hyderabad,61,Female,11,Loyal Customers,Budget,9,9,C0314
+444658,Pune,20,Male,5,At Risk,Budget,8,34,C0315
+960378,Bangalore,18,Male,9,Potential Loyal,Premium,10,29,C0316
+577974,Bangalore,34,Female,7,Potential Loyal,Premium,6,1,C0317
+1543950,Mumbai,49,Female,11,Loyal Customers,Premium,12,51,C0318
+865530,Hyderabad,52,Male,10,Loyal Customers,Budget,8,8,C0319
+809658,Pune,40,Male,7,Potential Loyal,Budget,7,23,C0320
+1086020,Pune,45,Male,12,Loyal Customers,Premium,12,10,C0321
+1176110,Hyderabad,54,Female,9,Potential Loyal,Regular,11,50,C0322
+1163850,Bangalore,58,Female,14,Champions,Premium,14,0,C0323
+518710,Mumbai,19,Female,4,At Risk,Budget,8,118,C0324
+470018,Delhi,62,Female,4,At Risk,Regular,7,48,C0325
+599236,Hyderabad,33,Female,3,At Risk,Regular,7,123,C0326
+946933,Bangalore,23,Female,6,At Risk,Budget,8,60,C0327
+1004550,Mumbai,32,Female,10,Loyal Customers,Premium,11,30,C0328
+421491,Hyderabad,58,Male,4,At Risk,Budget,8,69,C0329
+754225,Chennai,40,Female,6,At Risk,Budget,8,49,C0330
+283960,Mumbai,33,Male,7,Potential Loyal,Regular,7,0,C0331
+612614,Chennai,29,Male,8,Potential Loyal,Premium,11,32,C0332
+649697,Pune,58,Female,8,Potential Loyal,Budget,11,29,C0333
+968498,Chennai,46,Female,5,At Risk,Regular,7,99,C0334
+180361,Pune,46,Male,3,At Risk,Regular,5,119,C0335
+495983,Hyderabad,37,Female,5,At Risk,Premium,7,20,C0336
+1020630,Bangalore,50,Male,12,Loyal Customers,Regular,10,6,C0337
+1513410,Bangalore,20,Male,13,Champions,Regular,11,7,C0338
+807508,Hyderabad,59,Male,9,Potential Loyal,Budget,8,12,C0339
+1202470,Hyderabad,42,Female,9,Potential Loyal,Budget,11,35,C0340
+297960,Bangalore,46,Male,7,Potential Loyal,Budget,7,3,C0341
+1475200,Delhi,50,Male,15,Champions,Regular,16,4,C0342
+787128,Hyderabad,39,Male,6,At Risk,Budget,6,24,C0343
+673757,Chennai,20,Male,5,At Risk,Regular,8,58,C0344
+623749,Bangalore,51,Male,5,At Risk,Regular,9,98,C0345
+538948,Bangalore,42,Female,6,At Risk,Budget,6,16,C0346
+453046,Delhi,21,Female,5,At Risk,Regular,7,23,C0347
+633006,Bangalore,53,Female,7,Potential Loyal,Regular,7,18,C0348
+626711,Bangalore,56,Male,9,Potential Loyal,Premium,11,19,C0349
+830272,Bangalore,60,Male,9,Potential Loyal,Regular,12,44,C0350
+869877,Mumbai,62,Female,9,Potential Loyal,Budget,12,35,C0351
+630014,Hyderabad,23,Female,7,Potential Loyal,Regular,9,31,C0352
+822196,Chennai,39,Male,9,Potential Loyal,Budget,10,31,C0353
+706815,Chennai,51,Male,10,Loyal Customers,Budget,11,1,C0354
+392547,Delhi,50,Female,5,At Risk,Regular,2,28,C0355
+1453970,Bangalore,29,Male,14,Champions,Regular,12,1,C0356
+532851,Mumbai,32,Male,5,At Risk,Premium,7,27,C0357
+812588,Chennai,24,Male,9,Potential Loyal,Regular,7,8,C0358
+1271430,Mumbai,26,Female,10,Loyal Customers,Premium,11,44,C0359
+706134,Chennai,62,Male,11,Loyal Customers,Regular,13,1,C0360
+1256590,Chennai,44,Female,12,Loyal Customers,Budget,12,24,C0361
+598512,Chennai,46,Female,4,At Risk,Regular,9,105,C0362
+639357,Bangalore,52,Male,7,Potential Loyal,Regular,10,52,C0363
+688249,Pune,41,Female,8,Potential Loyal,Regular,9,13,C0364
+345920,Mumbai,50,Female,3,At Risk,Premium,7,143,C0365
+847386,Delhi,26,Female,10,Loyal Customers,Budget,8,5,C0366
+912579,Chennai,41,Male,8,Potential Loyal,Budget,10,35,C0367
+802384,Mumbai,36,Male,10,Loyal Customers,Regular,10,14,C0368
+1161420,Pune,50,Male,12,Loyal Customers,Premium,10,8,C0369
+996929,Delhi,46,Female,12,Loyal Customers,Regular,12,9,C0370
+710492,Mumbai,43,Female,9,Potential Loyal,Regular,9,0,C0371
+1505150,Delhi,41,Male,13,Champions,Regular,10,0,C0372
+969137,Mumbai,63,Female,10,Loyal Customers,Premium,9,7,C0373
+580251,Chennai,36,Female,6,At Risk,Premium,11,45,C0374
+1224470,Hyderabad,48,Female,12,Loyal Customers,Premium,13,26,C0375
+1075460,Mumbai,19,Female,8,Potential Loyal,Premium,7,31,C0376
+747335,Delhi,64,Female,6,At Risk,Regular,8,55,C0377
+1805380,Delhi,37,Male,15,Champions,Premium,15,6,C0378
+853572,Delhi,58,Female,8,Potential Loyal,Premium,11,38,C0379
+843995,Chennai,56,Male,9,Potential Loyal,Budget,14,63,C0380
+611598,Bangalore,33,Male,5,At Risk,Regular,7,51,C0381
+644983,Mumbai,57,Female,5,At Risk,Budget,8,130,C0382
+1100680,Hyderabad,29,Male,12,Loyal Customers,Regular,10,2,C0383
+970073,Pune,51,Male,7,Potential Loyal,Regular,8,38,C0384
+811954,Bangalore,58,Female,7,Potential Loyal,Regular,10,96,C0385
+803821,Bangalore,40,Male,12,Loyal Customers,Premium,12,2,C0386
+845131,Hyderabad,58,Male,9,Potential Loyal,Budget,7,4,C0387
+1061390,Bangalore,26,Male,11,Loyal Customers,Budget,16,40,C0388
+1123160,Chennai,59,Male,7,Potential Loyal,Regular,8,71,C0389
+493504,Mumbai,48,Male,3,At Risk,Premium,7,174,C0390
+1248560,Mumbai,20,Female,12,Loyal Customers,Premium,13,33,C0391
+653885,Bangalore,20,Female,6,At Risk,Budget,7,27,C0392
+1572960,Bangalore,52,Female,15,Champions,Premium,15,2,C0393
+754841,Bangalore,30,Female,8,Potential Loyal,Premium,9,13,C0394
+1040130,Delhi,39,Female,11,Loyal Customers,Regular,11,14,C0395
+1273440,Pune,43,Female,15,Champions,Regular,16,6,C0396
+921911,Bangalore,49,Female,7,Potential Loyal,Budget,8,53,C0397
+693115,Delhi,23,Female,4,At Risk,Regular,7,92,C0398
+1614420,Bangalore,29,Female,14,Champions,Premium,15,15,C0399
+1233440,Bangalore,38,Female,10,Loyal Customers,Regular,12,78,C0400
+488442,Mumbai,63,Female,4,At Risk,Budget,8,90,C0401
+888703,Delhi,40,Female,6,At Risk,Budget,9,80,C0402
+2003370,Bangalore,57,Female,15,Champions,Budget,14,4,C0403
+691377,Bangalore,22,Female,5,At Risk,Budget,7,42,C0404
+1127310,Mumbai,28,Male,11,Loyal Customers,Budget,14,36,C0405
+1391520,Mumbai,46,Male,11,Loyal Customers,Premium,13,43,C0406
+380753,Bangalore,59,Female,5,At Risk,Regular,6,28,C0407
+681046,Chennai,20,Male,6,At Risk,Regular,9,50,C0408
+604443,Delhi,41,Female,5,At Risk,Budget,7,32,C0409
+972880,Pune,51,Female,12,Loyal Customers,Regular,13,1,C0410
+713032,Delhi,35,Male,10,Loyal Customers,Premium,11,5,C0411
+1462040,Hyderabad,49,Female,12,Loyal Customers,Premium,12,22,C0412
+1256920,Mumbai,34,Female,10,Loyal Customers,Budget,11,50,C0413
+1124550,Mumbai,62,Female,12,Loyal Customers,Premium,12,18,C0414
+384361,Mumbai,22,Female,4,At Risk,Budget,6,46,C0415
+985682,Chennai,23,Female,11,Loyal Customers,Regular,11,10,C0416
+767709,Bangalore,22,Female,6,At Risk,Premium,7,22,C0417
+364621,Bangalore,63,Male,3,At Risk,Budget,4,120,C0418
+873230,Mumbai,25,Male,6,At Risk,Premium,9,77,C0419
+977265,Hyderabad,19,Female,9,Potential Loyal,Budget,7,15,C0420
+1016050,Hyderabad,47,Male,11,Loyal Customers,Premium,8,7,C0421
+955497,Chennai,37,Female,6,At Risk,Budget,9,60,C0422
+173291,Pune,51,Female,3,At Risk,Budget,3,202,C0423
+331171,Chennai,26,Female,3,At Risk,Premium,5,108,C0424
+1096470,Mumbai,47,Female,10,Loyal Customers,Budget,13,54,C0425
+778818,Mumbai,55,Male,5,At Risk,Regular,6,44,C0426
+1138290,Hyderabad,21,Male,8,Potential Loyal,Premium,11,62,C0427
+1409310,Bangalore,28,Male,14,Champions,Budget,16,18,C0428
+754100,Delhi,40,Female,7,Potential Loyal,Regular,8,26,C0429
+373673,Mumbai,58,Female,3,At Risk,Budget,7,117,C0430
+306565,Hyderabad,57,Male,3,At Risk,Budget,4,91,C0431
+1060620,Mumbai,55,Male,9,Potential Loyal,Budget,11,53,C0432
+987688,Hyderabad,64,Female,11,Loyal Customers,Premium,12,21,C0433
+1172390,Chennai,23,Male,13,Champions,Budget,12,8,C0434
+522867,Hyderabad,59,Male,5,At Risk,Regular,8,44,C0435
+1317680,Pune,58,Male,14,Champions,Budget,16,11,C0436
+503133,Pune,36,Female,4,At Risk,Premium,6,50,C0437
+959189,Pune,43,Female,7,Potential Loyal,Premium,10,58,C0438
+449241,Pune,21,Male,4,At Risk,Regular,7,47,C0439
+578031,Bangalore,47,Male,8,Potential Loyal,Budget,9,4,C0440
+1784610,Chennai,38,Female,12,Loyal Customers,Regular,14,36,C0441
+1037560,Hyderabad,26,Female,12,Loyal Customers,Budget,11,1,C0442
+562850,Pune,38,Male,4,At Risk,Premium,5,34,C0443
+1159760,Mumbai,46,Male,10,Loyal Customers,Premium,14,95,C0444
+1125390,Hyderabad,36,Female,11,Loyal Customers,Regular,16,42,C0445
+308945,Hyderabad,28,Female,7,Potential Loyal,Budget,5,2,C0446
+959737,Pune,30,Male,7,Potential Loyal,Budget,8,48,C0447
+917772,Pune,49,Female,11,Loyal Customers,Premium,10,6,C0448
+794091,Mumbai,43,Female,9,Potential Loyal,Premium,10,10,C0449
+1238440,Delhi,40,Male,8,Potential Loyal,Regular,9,70,C0450
+103372,Bangalore,56,Female,3,At Risk,Budget,2,177,C0451
+560161,Mumbai,24,Female,3,At Risk,Regular,5,153,C0452
+1392170,Delhi,43,Female,13,Champions,Regular,11,0,C0453
+1015700,Bangalore,54,Male,9,Potential Loyal,Budget,10,38,C0454
+720365,Hyderabad,22,Female,9,Potential Loyal,Regular,10,10,C0455
+1243170,Mumbai,35,Male,11,Loyal Customers,Premium,11,30,C0456
+1047090,Hyderabad,41,Female,12,Loyal Customers,Regular,11,4,C0457
+1348570,Hyderabad,30,Female,12,Loyal Customers,Premium,12,31,C0458
+645085,Chennai,20,Male,6,At Risk,Regular,6,23,C0459
+377579,Mumbai,51,Female,5,At Risk,Budget,7,20,C0460
+1261200,Hyderabad,26,Female,12,Loyal Customers,Regular,13,24,C0461
+859556,Hyderabad,43,Female,10,Loyal Customers,Regular,9,7,C0462
+592934,Chennai,50,Female,8,Potential Loyal,Budget,8,0,C0463
+1027550,Bangalore,48,Male,9,Potential Loyal,Regular,11,53,C0464
+483045,Hyderabad,25,Female,7,Potential Loyal,Regular,8,16,C0465
+797077,Hyderabad,58,Male,4,At Risk,Regular,7,59,C0466
+799618,Chennai,59,Male,4,At Risk,Premium,6,125,C0467
+342622,Hyderabad,48,Male,8,Potential Loyal,Budget,9,7,C0468
+695732,Chennai,42,Male,5,At Risk,Premium,9,74,C0469
+805775,Mumbai,54,Male,9,Potential Loyal,Premium,8,10,C0470
+1106210,Mumbai,38,Female,13,Champions,Regular,12,2,C0471
+1594510,Hyderabad,31,Female,13,Champions,Budget,15,25,C0472
+910747,Chennai,65,Male,12,Loyal Customers,Premium,12,8,C0473
+1404590,Chennai,31,Female,14,Champions,Regular,15,14,C0474
+1502150,Mumbai,42,Female,14,Champions,Regular,15,10,C0475
+757741,Chennai,39,Female,4,At Risk,Budget,7,113,C0476
+2027700,Hyderabad,59,Female,15,Champions,Regular,16,0,C0477
+349260,Hyderabad,33,Female,7,Potential Loyal,Regular,8,18,C0478
+1143290,Chennai,37,Female,9,Potential Loyal,Premium,11,37,C0479
+1036120,Bangalore,63,Female,9,Potential Loyal,Regular,11,43,C0480
+740761,Bangalore,53,Female,6,At Risk,Premium,9,39,C0481
+1246730,Pune,61,Female,11,Loyal Customers,Regular,7,8,C0482
+356179,Bangalore,36,Male,5,At Risk,Budget,5,28,C0483
+1140810,Chennai,40,Female,10,Loyal Customers,Regular,14,57,C0484
+1255810,Hyderabad,31,Male,12,Loyal Customers,Regular,13,30,C0485
+541142,Mumbai,62,Female,4,At Risk,Premium,8,75,C0486
+874118,Mumbai,65,Male,10,Loyal Customers,Premium,10,11,C0487
+948053,Chennai,51,Male,10,Loyal Customers,Premium,13,22,C0488
+838907,Bangalore,24,Female,8,Potential Loyal,Budget,11,51,C0489
+2035070,Delhi,24,Male,15,Champions,Budget,20,1,C0490
+1358010,Pune,44,Female,11,Loyal Customers,Budget,15,72,C0491
+746064,Bangalore,36,Female,8,Potential Loyal,Budget,7,6,C0492
+1248080,Hyderabad,23,Male,15,Champions,Budget,14,1,C0493
+1229890,Mumbai,29,Female,10,Loyal Customers,Premium,11,44,C0494
+865168,Chennai,49,Male,10,Loyal Customers,Regular,11,11,C0495
+843738,Hyderabad,18,Female,9,Potential Loyal,Budget,10,27,C0496
+1364460,Pune,39,Female,12,Loyal Customers,Budget,12,29,C0497
+564932,Mumbai,51,Female,4,At Risk,Budget,9,82,C0498
+948873,Delhi,35,Male,11,Loyal Customers,Regular,13,14,C0499
+551652,Chennai,64,Female,5,At Risk,Regular,9,37,C0500

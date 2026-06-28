@@ -1,0 +1,501 @@
+customer_id,age,gender,city,customer_segment,signup_date,Segment,Recency,Frequency,Monetary,RFM_Score
+C0307,42,Female,Pune,Regular,2024-03-21,Champions,13,18,1826916,14
+C0339,59,Male,Hyderabad,Budget,2024-09-16,Potential Loyal,12,8,807508,9
+C0032,28,Female,Delhi,Budget,2024-05-14,Potential Loyal,37,9,868990,7
+C0285,56,Male,Delhi,Premium,2024-05-20,At Risk,36,9,727659,6
+C0403,57,Female,Bangalore,Budget,2024-01-30,Champions,4,14,2003374,15
+C0077,31,Female,Mumbai,Budget,2024-11-20,Loyal Customers,63,16,1098000,10
+C0124,26,Male,Mumbai,Regular,2024-12-21,Champions,3,11,1254720,13
+C0413,34,Female,Mumbai,Budget,2024-05-26,Loyal Customers,50,11,1256923,10
+C0286,57,Female,Pune,Budget,2024-09-28,Potential Loyal,38,12,658785,8
+C0105,42,Male,Hyderabad,Budget,2024-06-03,Champions,12,14,1428601,14
+C0275,52,Female,Mumbai,Premium,2024-12-04,Potential Loyal,19,8,633754,8
+C0345,51,Male,Bangalore,Regular,2024-05-24,At Risk,98,9,623749,5
+C0412,49,Female,Hyderabad,Premium,2024-05-14,Loyal Customers,22,12,1462042,12
+C0246,40,Male,Chennai,Premium,2024-11-13,Champions,17,20,2230764,14
+C0480,63,Female,Bangalore,Regular,2024-06-27,Potential Loyal,43,11,1036124,9
+C0357,32,Male,Mumbai,Premium,2024-05-31,At Risk,27,7,532851,5
+C0398,23,Female,Delhi,Regular,2024-11-04,At Risk,92,7,693115,4
+C0158,29,Female,Mumbai,Regular,2024-05-12,Loyal Customers,4,10,934455,11
+C0051,61,Male,Delhi,Regular,2024-06-22,At Risk,90,9,955990,6
+C0190,32,Male,Bangalore,Premium,2024-02-06,Loyal Customers,3,13,822819,12
+C0380,56,Male,Chennai,Budget,2024-10-21,Potential Loyal,63,14,843995,9
+C0152,63,Male,Pune,Premium,2024-09-24,Loyal Customers,2,10,822820,11
+C0292,60,Female,Bangalore,Premium,2024-12-17,Loyal Customers,30,11,1127888,10
+C0132,60,Female,Chennai,Premium,2024-08-27,At Risk,37,7,706208,5
+C0236,49,Male,Mumbai,Regular,2024-11-22,Potential Loyal,17,8,587349,7
+C0095,19,Male,Bangalore,Premium,2024-10-24,Champions,10,14,1434407,14
+C0484,40,Female,Chennai,Regular,2024-09-02,Loyal Customers,57,14,1140808,10
+C0071,22,Male,Hyderabad,Regular,2024-03-08,Potential Loyal,3,7,719955,8
+C0005,56,Male,Hyderabad,Premium,2024-11-28,At Risk,108,7,724011,4
+C0317,34,Female,Bangalore,Premium,2024-01-04,Potential Loyal,1,6,577974,7
+C0009,24,Male,Pune,Premium,2024-07-02,Champions,5,17,1900940,15
+C0258,41,Male,Chennai,Premium,2024-08-29,Champions,9,19,1676819,14
+C0471,38,Female,Mumbai,Regular,2024-12-19,Champions,2,12,1106214,13
+C0318,49,Female,Mumbai,Premium,2024-07-13,Loyal Customers,51,12,1543948,11
+C0408,20,Male,Chennai,Regular,2024-07-08,At Risk,50,9,681046,6
+C0290,44,Female,Pune,Regular,2024-07-31,Champions,15,15,1117859,13
+C0335,46,Male,Pune,Regular,2024-11-19,At Risk,119,5,180361,3
+C0194,49,Female,Delhi,Budget,2024-01-21,Champions,5,15,921921,13
+C0360,62,Male,Chennai,Regular,2024-01-23,Loyal Customers,1,13,706134,11
+C0462,43,Female,Hyderabad,Regular,2024-09-16,Loyal Customers,7,9,859556,10
+C0474,31,Female,Chennai,Regular,2024-09-26,Champions,14,15,1404592,14
+C0092,32,Male,Chennai,Premium,2024-07-23,Champions,17,18,1124281,13
+C0386,40,Male,Bangalore,Premium,2024-12-02,Loyal Customers,2,12,803821,12
+C0289,64,Male,Pune,Regular,2024-04-26,Potential Loyal,67,12,939317,8
+C0197,19,Female,Hyderabad,Premium,2024-03-30,Champions,13,12,1415555,13
+C0257,65,Female,Hyderabad,Regular,2024-11-22,Potential Loyal,13,11,716363,9
+C0119,45,Female,Mumbai,Budget,2024-08-31,At Risk,25,6,596462,5
+C0497,39,Female,Pune,Budget,2024-10-05,Loyal Customers,29,12,1364465,12
+C0402,40,Female,Delhi,Budget,2024-06-29,At Risk,80,9,888703,6
+C0222,60,Male,Pune,Premium,2024-03-05,Potential Loyal,21,10,877106,9
+C0396,43,Female,Pune,Regular,2024-04-05,Champions,6,16,1273445,15
+C0043,33,Male,Delhi,Regular,2024-01-11,Potential Loyal,1,11,607981,9
+C0379,58,Female,Delhi,Premium,2024-09-12,Potential Loyal,38,11,853572,8
+C0003,61,Male,Hyderabad,Regular,2024-01-17,Potential Loyal,61,12,856505,8
+C0068,63,Female,Mumbai,Regular,2024-07-21,Champions,21,17,1335033,13
+C0053,46,Male,Pune,Premium,2024-05-22,Loyal Customers,35,11,1321511,10
+C0306,19,Male,Chennai,Budget,2024-04-20,Champions,5,12,1444389,14
+C0150,50,Female,Delhi,Regular,2024-09-07,Potential Loyal,43,10,693800,7
+C0293,48,Male,Delhi,Premium,2024-02-17,Champions,32,15,1434462,13
+C0072,40,Male,Mumbai,Regular,2024-05-25,Potential Loyal,113,10,1106682,8
+C0033,50,Male,Hyderabad,Premium,2024-11-16,Loyal Customers,0,9,1063192,11
+C0248,59,Male,Bangalore,Regular,2024-01-18,At Risk,73,9,803282,6
+C0305,27,Female,Delhi,Premium,2024-11-20,Potential Loyal,6,6,397074,7
+C0156,33,Female,Hyderabad,Budget,2024-12-08,Loyal Customers,20,12,1144758,11
+C0154,47,Female,Chennai,Budget,2024-05-17,Potential Loyal,53,11,1094620,9
+C0161,33,Female,Pune,Budget,2024-05-03,Champions,22,14,1582107,13
+C0496,18,Female,Hyderabad,Budget,2024-02-24,Potential Loyal,27,10,843738,9
+C0419,25,Male,Mumbai,Premium,2024-09-09,At Risk,77,9,873230,6
+C0304,37,Female,Bangalore,Premium,2024-04-02,Loyal Customers,5,13,718792,11
+C0488,51,Male,Chennai,Premium,2024-01-27,Loyal Customers,22,13,948053,10
+C0409,41,Female,Delhi,Budget,2024-03-11,At Risk,32,7,604443,5
+C0367,41,Male,Chennai,Budget,2024-03-04,Potential Loyal,35,10,912579,8
+C0299,27,Female,Mumbai,Premium,2024-06-28,Potential Loyal,11,7,877573,8
+C0279,25,Male,Pune,Regular,2024-07-04,At Risk,15,7,563225,6
+C0056,23,Male,Mumbai,Regular,2024-09-05,Potential Loyal,25,8,768181,7
+C0086,33,Male,Bangalore,Budget,2024-07-27,Champions,30,15,1301325,13
+C0006,62,Female,Mumbai,Regular,2024-10-28,Potential Loyal,56,10,830905,7
+C0229,58,Female,Mumbai,Budget,2024-02-16,Loyal Customers,8,9,968263,10
+C0177,43,Female,Delhi,Budget,2024-11-18,Loyal Customers,14,10,1260166,12
+C0472,31,Female,Hyderabad,Budget,2024-08-29,Champions,25,15,1594511,13
+C0160,53,Male,Hyderabad,Premium,2024-02-13,Loyal Customers,108,12,1610281,10
+C0179,37,Male,Mumbai,Premium,2024-10-12,Potential Loyal,5,7,721357,8
+C0164,43,Male,Bangalore,Budget,2024-10-24,Loyal Customers,2,8,799939,10
+C0012,36,Female,Hyderabad,Premium,2024-12-26,Champions,21,14,1343926,13
+C0265,44,Male,Pune,Budget,2024-07-27,At Risk,101,10,787275,6
+C0491,44,Female,Pune,Budget,2024-04-12,Loyal Customers,72,15,1358011,11
+C0096,34,Male,Delhi,Budget,2024-08-10,Loyal Customers,20,11,1041023,10
+C0231,46,Male,Chennai,Regular,2024-01-15,Champions,3,13,1395946,14
+C0106,43,Male,Bangalore,Regular,2024-04-17,Potential Loyal,25,9,634778,7
+C0188,61,Male,Bangalore,Budget,2024-10-28,Loyal Customers,3,9,920460,10
+C0344,20,Male,Chennai,Regular,2024-08-12,At Risk,58,8,673757,5
+C0313,40,Female,Delhi,Regular,2024-12-13,Loyal Customers,13,11,1403461,12
+C0433,64,Female,Hyderabad,Premium,2024-01-15,Loyal Customers,21,12,987688,11
+C0192,36,Female,Delhi,Regular,2024-12-18,Loyal Customers,68,12,1418307,10
+C0250,36,Female,Chennai,Regular,2024-03-30,Potential Loyal,35,9,1358455,9
+C0162,62,Female,Chennai,Budget,2024-09-08,Potential Loyal,20,10,760844,8
+C0249,55,Female,Chennai,Premium,2024-02-16,Potential Loyal,5,11,492744,9
+C0210,53,Male,Hyderabad,Regular,2024-02-17,Potential Loyal,2,10,374653,9
+C0251,30,Male,Hyderabad,Regular,2024-09-28,At Risk,37,11,585956,6
+C0087,57,Male,Mumbai,Premium,2024-03-31,Potential Loyal,26,10,453561,7
+C0294,45,Male,Chennai,Budget,2024-07-09,Loyal Customers,24,12,1062451,11
+C0278,21,Male,Chennai,Regular,2024-09-26,Loyal Customers,27,12,1098435,11
+C0218,48,Female,Bangalore,Budget,2024-10-05,Loyal Customers,40,12,1398523,11
+C0135,26,Female,Mumbai,Premium,2024-05-13,Loyal Customers,23,13,1134672,11
+C0108,61,Male,Hyderabad,Regular,2024-03-27,Loyal Customers,50,13,1198393,10
+C0085,41,Male,Bangalore,Premium,2024-12-15,Loyal Customers,45,13,1230382,11
+C0149,52,Female,Chennai,Regular,2024-02-05,Loyal Customers,49,14,844558,10
+C0070,18,Female,Hyderabad,Budget,2024-02-21,At Risk,44,8,295922,5
+C0425,47,Female,Mumbai,Budget,2024-11-23,Loyal Customers,54,13,1096473,10
+C0322,54,Female,Hyderabad,Regular,2024-12-29,Potential Loyal,50,11,1176106,9
+C0207,31,Female,Hyderabad,Premium,2024-05-27,Loyal Customers,10,13,753902,10
+C0487,65,Male,Mumbai,Premium,2024-12-08,Loyal Customers,11,10,874118,10
+C0375,48,Female,Hyderabad,Premium,2024-02-10,Loyal Customers,26,13,1224470,12
+C0112,20,Male,Pune,Budget,2024-02-07,Loyal Customers,4,11,1108279,12
+C0024,52,Female,Chennai,Budget,2024-08-07,Champions,5,12,1671125,14
+C0226,39,Female,Chennai,Premium,2024-06-17,Loyal Customers,0,10,910112,11
+C0452,24,Female,Mumbai,Regular,2024-07-06,At Risk,153,5,560161,3
+C0336,37,Female,Hyderabad,Premium,2024-06-29,At Risk,20,7,495983,5
+C0027,27,Male,Chennai,Regular,2024-11-01,Potential Loyal,7,5,677859,8
+C0220,33,Female,Mumbai,Regular,2024-01-23,Potential Loyal,10,6,612317,7
+C0110,58,Female,Delhi,Premium,2024-12-10,At Risk,19,7,587441,6
+C0266,35,Male,Chennai,Regular,2024-04-21,Potential Loyal,54,8,810552,7
+C0037,21,Male,Hyderabad,Premium,2024-02-13,Potential Loyal,9,8,685309,8
+C0329,58,Male,Hyderabad,Budget,2024-04-09,At Risk,69,8,421491,4
+C0441,38,Female,Chennai,Regular,2024-07-23,Loyal Customers,36,14,1784607,12
+C0494,29,Female,Mumbai,Premium,2024-07-22,Loyal Customers,44,11,1229894,10
+C0142,60,Male,Hyderabad,Premium,2024-08-26,At Risk,82,7,672261,4
+C0399,29,Female,Bangalore,Premium,2024-02-10,Champions,15,15,1614418,14
+C0198,48,Female,Bangalore,Premium,2024-10-26,Potential Loyal,1,6,887443,9
+C0271,58,Male,Delhi,Regular,2024-05-04,Champions,7,11,1302795,13
+C0391,20,Female,Mumbai,Premium,2024-04-12,Loyal Customers,33,13,1248555,12
+C0008,39,Female,Mumbai,Premium,2024-06-21,Champions,27,14,1245311,13
+C0260,22,Female,Chennai,Regular,2024-11-28,Loyal Customers,28,10,1248561,11
+C0143,62,Female,Bangalore,Premium,2024-11-06,Potential Loyal,23,8,752451,7
+C0499,35,Male,Delhi,Regular,2024-03-24,Loyal Customers,14,13,948873,11
+C0159,39,Female,Hyderabad,Budget,2024-05-21,Potential Loyal,15,9,841356,9
+C0126,39,Female,Pune,Premium,2024-04-15,Loyal Customers,41,19,1365623,12
+C0395,39,Female,Delhi,Regular,2024-08-11,Loyal Customers,14,11,1040126,11
+C0269,21,Female,Bangalore,Premium,2024-03-03,Potential Loyal,55,12,938039,9
+C0255,43,Female,Delhi,Regular,2024-01-08,Loyal Customers,3,12,825759,12
+C0440,47,Male,Bangalore,Budget,2024-03-14,Potential Loyal,4,9,578031,8
+C0477,59,Female,Hyderabad,Regular,2024-04-08,Champions,0,16,2027695,15
+C0115,27,Male,Delhi,Regular,2024-04-22,Potential Loyal,20,9,1025068,9
+C0423,51,Female,Pune,Budget,2024-02-07,At Risk,202,3,173291,3
+C0450,40,Male,Delhi,Regular,2024-09-10,Potential Loyal,70,9,1238439,8
+C0045,22,Male,Mumbai,Premium,2024-01-17,At Risk,23,8,429962,6
+C0238,47,Female,Chennai,Budget,2024-03-21,Champions,2,14,1517733,15
+C0078,34,Female,Bangalore,Premium,2024-02-17,Potential Loyal,18,8,472190,7
+C0326,33,Female,Hyderabad,Regular,2024-09-25,At Risk,123,7,599236,3
+C0435,59,Male,Hyderabad,Regular,2024-11-12,At Risk,44,8,522867,5
+C0215,30,Male,Delhi,Regular,2024-07-31,Champions,1,18,1794341,15
+C0048,64,Female,Mumbai,Regular,2024-07-27,At Risk,99,5,541598,3
+C0359,26,Female,Mumbai,Premium,2024-04-02,Loyal Customers,44,11,1271434,10
+C0259,19,Female,Hyderabad,Premium,2024-11-27,Potential Loyal,11,7,978524,9
+C0223,50,Female,Delhi,Regular,2024-02-21,Champions,6,15,885451,13
+C0436,58,Male,Pune,Budget,2024-10-06,Champions,11,16,1317676,14
+C0232,20,Female,Delhi,Regular,2024-07-02,Loyal Customers,16,12,697486,10
+C0400,38,Female,Bangalore,Regular,2024-11-04,Loyal Customers,78,12,1233437,10
+C0136,42,Female,Mumbai,Regular,2024-06-16,Potential Loyal,14,6,652017,7
+C0424,26,Female,Chennai,Premium,2024-08-18,At Risk,108,5,331171,3
+C0076,24,Male,Bangalore,Regular,2024-11-05,At Risk,25,8,325573,6
+C0347,21,Female,Delhi,Regular,2024-02-18,At Risk,23,7,453046,5
+C0049,30,Male,Delhi,Budget,2024-08-08,Potential Loyal,95,9,1019295,7
+C0007,35,Male,Mumbai,Budget,2024-08-04,Potential Loyal,11,9,792303,8
+C0191,21,Male,Bangalore,Budget,2024-10-18,Champions,8,13,1060325,13
+C0470,54,Male,Mumbai,Premium,2024-08-13,Potential Loyal,10,8,805775,9
+C0415,22,Female,Mumbai,Budget,2024-08-15,At Risk,46,6,384361,4
+C0022,31,Female,Pune,Budget,2024-08-22,Champions,0,19,1078497,14
+C0421,47,Male,Hyderabad,Premium,2024-02-03,Loyal Customers,7,8,1016048,11
+C0350,60,Male,Bangalore,Regular,2024-12-01,Potential Loyal,44,12,830272,9
+C0141,19,Male,Mumbai,Premium,2024-08-30,Loyal Customers,40,13,1321494,11
+C0315,20,Male,Pune,Budget,2024-01-29,At Risk,34,8,444658,5
+C0256,34,Male,Pune,Regular,2024-12-10,Potential Loyal,65,10,1077404,8
+C0144,56,Male,Mumbai,Regular,2024-02-25,At Risk,61,5,240254,3
+C0323,58,Female,Bangalore,Premium,2024-07-26,Champions,0,14,1163854,14
+C0199,45,Female,Delhi,Regular,2024-06-27,Champions,8,12,1132349,13
+C0016,31,Female,Chennai,Budget,2024-11-27,Potential Loyal,75,13,1063693,9
+C0393,52,Female,Bangalore,Premium,2024-11-27,Champions,2,15,1572961,15
+C0337,50,Male,Bangalore,Regular,2024-08-19,Loyal Customers,6,10,1020630,12
+C0295,26,Male,Hyderabad,Budget,2024-10-14,Potential Loyal,91,11,911331,7
+C0122,46,Male,Chennai,Regular,2024-04-30,Loyal Customers,8,8,1004006,11
+C0468,48,Male,Hyderabad,Budget,2024-11-13,Potential Loyal,7,9,342622,8
+C0486,62,Female,Mumbai,Premium,2024-11-11,At Risk,75,8,541142,4
+C0429,40,Female,Delhi,Regular,2024-04-10,Potential Loyal,26,8,754100,7
+C0020,32,Male,Bangalore,Regular,2024-05-17,Champions,0,13,998692,13
+C0011,52,Male,Pune,Premium,2024-10-09,Champions,16,16,1855656,14
+C0031,59,Female,Delhi,Regular,2024-08-10,Loyal Customers,5,10,957206,11
+C0397,49,Female,Bangalore,Budget,2024-05-16,Potential Loyal,53,8,921911,7
+C0155,38,Male,Delhi,Regular,2024-08-18,Potential Loyal,79,11,924990,7
+C0333,58,Female,Pune,Budget,2024-10-23,Potential Loyal,29,11,649697,8
+C0094,59,Female,Chennai,Budget,2024-06-18,Loyal Customers,8,13,957077,12
+C0328,32,Female,Mumbai,Premium,2024-09-18,Loyal Customers,30,11,1004552,10
+C0382,57,Female,Mumbai,Budget,2024-08-01,At Risk,130,8,644983,5
+C0369,50,Male,Pune,Premium,2024-04-23,Loyal Customers,8,10,1161416,12
+C0280,50,Male,Pune,Budget,2024-04-23,At Risk,65,7,565045,3
+C0084,27,Female,Mumbai,Premium,2024-06-06,Loyal Customers,34,14,1162986,11
+C0088,44,Male,Mumbai,Budget,2024-06-19,Loyal Customers,1,10,829718,11
+C0174,49,Male,Delhi,Budget,2024-05-25,Loyal Customers,14,10,1055215,11
+C0221,38,Female,Chennai,Regular,2024-07-16,Potential Loyal,26,11,700144,8
+C0028,22,Female,Pune,Budget,2024-08-27,Loyal Customers,41,18,1392079,12
+C0153,59,Female,Hyderabad,Budget,2024-09-04,Loyal Customers,4,9,1275412,12
+C0079,58,Female,Bangalore,Premium,2024-01-02,Champions,3,13,1206042,13
+C0151,24,Female,Bangalore,Budget,2024-08-23,At Risk,61,10,757948,6
+C0014,23,Male,Delhi,Regular,2024-05-22,Potential Loyal,73,12,868977,8
+C0243,36,Female,Delhi,Budget,2024-07-21,Champions,10,17,1777229,14
+C0023,27,Female,Mumbai,Premium,2024-10-14,Loyal Customers,45,13,1257137,11
+C0044,55,Male,Hyderabad,Premium,2024-01-04,Potential Loyal,84,10,1185868,8
+C0498,51,Female,Mumbai,Budget,2024-08-27,At Risk,82,9,564932,4
+C0431,57,Male,Hyderabad,Budget,2024-03-27,At Risk,91,4,306565,3
+C0463,50,Female,Chennai,Budget,2024-06-02,Potential Loyal,0,8,592934,8
+C0062,21,Female,Delhi,Premium,2024-10-26,Loyal Customers,10,13,977422,12
+C0414,62,Female,Mumbai,Premium,2024-03-10,Loyal Customers,18,12,1124551,12
+C0428,28,Male,Bangalore,Budget,2024-04-25,Champions,18,16,1409309,14
+C0267,46,Female,Mumbai,Regular,2024-02-20,Champions,7,13,1532730,14
+C0058,42,Male,Pune,Regular,2024-08-20,Loyal Customers,38,17,1315778,12
+C0445,36,Female,Hyderabad,Regular,2024-05-07,Loyal Customers,42,16,1125387,11
+C0173,53,Female,Chennai,Premium,2024-11-22,Potential Loyal,29,9,1155539,9
+C0138,23,Female,Delhi,Budget,2024-10-03,Potential Loyal,35,9,911918,7
+C0097,40,Female,Pune,Budget,2024-09-18,Loyal Customers,42,12,992977,10
+C0389,59,Male,Chennai,Regular,2024-12-22,Potential Loyal,71,8,1123165,7
+C0034,37,Male,Mumbai,Regular,2024-03-23,Loyal Customers,12,10,1259649,12
+C0089,44,Male,Bangalore,Premium,2024-12-25,Loyal Customers,1,11,976485,12
+C0017,22,Male,Hyderabad,Budget,2024-05-05,Potential Loyal,3,8,765760,9
+C0349,56,Male,Bangalore,Premium,2024-10-25,Potential Loyal,19,11,626711,9
+C0091,30,Female,Bangalore,Regular,2024-04-26,Champions,12,14,1498058,14
+C0026,50,Female,Delhi,Premium,2024-02-26,Champions,10,16,1640937,14
+C0332,29,Male,Chennai,Premium,2024-03-31,Potential Loyal,32,11,612614,8
+C0263,52,Male,Pune,Regular,2024-07-08,At Risk,76,6,571774,3
+C0308,41,Female,Chennai,Regular,2024-10-17,Potential Loyal,19,9,807559,9
+C0365,50,Female,Mumbai,Premium,2024-11-05,At Risk,143,7,345920,3
+C0300,53,Female,Delhi,Regular,2024-10-20,Champions,13,16,1409744,14
+C0288,24,Male,Chennai,Budget,2024-10-09,Champions,6,16,1800035,15
+C0351,62,Female,Mumbai,Budget,2024-12-28,Potential Loyal,35,12,869877,9
+C0370,46,Female,Delhi,Regular,2024-01-28,Loyal Customers,9,12,996929,12
+C0208,46,Female,Delhi,Premium,2024-11-18,Loyal Customers,3,11,741348,10
+C0176,21,Female,Pune,Premium,2024-02-03,Loyal Customers,14,9,1003090,10
+C0465,25,Female,Hyderabad,Regular,2024-12-18,Potential Loyal,16,8,483045,7
+C0242,33,Female,Hyderabad,Regular,2024-10-21,Potential Loyal,17,7,929104,8
+C0485,31,Male,Hyderabad,Regular,2024-10-14,Loyal Customers,30,13,1255811,12
+C0182,54,Male,Hyderabad,Budget,2024-02-20,Potential Loyal,37,8,821373,7
+C0134,60,Male,Delhi,Budget,2024-08-07,Loyal Customers,28,10,1069511,10
+C0272,26,Male,Delhi,Budget,2024-04-16,Potential Loyal,18,9,764773,8
+C0103,44,Female,Pune,Budget,2024-05-31,Loyal Customers,35,13,1121669,10
+C0171,32,Female,Mumbai,Regular,2024-01-08,Loyal Customers,0,11,994087,12
+C0325,62,Female,Delhi,Regular,2024-02-24,At Risk,48,7,470018,4
+C0457,41,Female,Hyderabad,Regular,2024-03-14,Loyal Customers,4,11,1047092,12
+C0321,45,Male,Pune,Premium,2024-06-09,Loyal Customers,10,12,1086024,12
+C0373,63,Female,Mumbai,Premium,2024-01-20,Loyal Customers,7,9,969137,10
+C0455,22,Female,Hyderabad,Regular,2024-10-08,Potential Loyal,10,10,720365,9
+C0385,58,Female,Bangalore,Regular,2024-01-09,Potential Loyal,96,10,811954,7
+C0117,25,Female,Mumbai,Regular,2024-12-07,Champions,7,14,1206755,15
+C0064,29,Male,Hyderabad,Premium,2024-12-11,At Risk,30,6,263149,5
+C0214,33,Female,Hyderabad,Premium,2024-07-15,At Risk,35,9,708883,6
+C0319,52,Male,Hyderabad,Budget,2024-12-08,Loyal Customers,8,8,865530,10
+C0145,55,Male,Bangalore,Budget,2024-12-12,Potential Loyal,22,9,744944,7
+C0353,39,Male,Chennai,Budget,2024-12-16,Potential Loyal,31,10,822196,9
+C0330,40,Female,Chennai,Budget,2024-03-16,At Risk,49,8,754225,6
+C0185,28,Male,Pune,Regular,2024-12-18,At Risk,45,8,658782,6
+C0169,62,Male,Mumbai,Premium,2024-09-04,Potential Loyal,2,8,751990,9
+C0493,23,Male,Hyderabad,Budget,2024-01-20,Champions,1,14,1248075,15
+C0410,51,Female,Pune,Regular,2024-11-28,Loyal Customers,1,13,972880,12
+C0483,36,Male,Bangalore,Budget,2024-02-10,At Risk,28,5,356179,5
+C0411,35,Male,Delhi,Premium,2024-04-05,Loyal Customers,5,11,713032,10
+C0361,44,Female,Chennai,Budget,2024-05-01,Loyal Customers,24,12,1256589,12
+C0490,24,Male,Delhi,Budget,2024-03-21,Champions,1,20,2035071,15
+C0046,39,Male,Hyderabad,Premium,2024-05-22,At Risk,91,6,395689,3
+C0019,62,Male,Chennai,Regular,2024-01-29,Champions,4,15,1402324,15
+C0456,35,Male,Mumbai,Premium,2024-07-20,Loyal Customers,30,11,1243167,11
+C0050,40,Female,Pune,Regular,2024-01-28,Loyal Customers,2,10,972541,11
+C0475,42,Female,Mumbai,Regular,2024-09-29,Champions,10,15,1502152,14
+C0338,20,Male,Bangalore,Regular,2024-02-09,Champions,7,11,1513414,13
+C0432,55,Male,Mumbai,Budget,2024-11-15,Potential Loyal,53,11,1060623,9
+C0346,42,Female,Bangalore,Budget,2024-11-02,At Risk,16,6,538948,6
+C0268,61,Female,Hyderabad,Budget,2024-07-02,Potential Loyal,57,10,1050105,8
+C0495,49,Male,Chennai,Regular,2024-01-20,Loyal Customers,11,11,865168,10
+C0387,58,Male,Hyderabad,Budget,2024-06-19,Potential Loyal,4,7,845131,9
+C0067,60,Female,Bangalore,Premium,2024-12-08,Potential Loyal,20,8,807864,8
+C0170,35,Female,Delhi,Premium,2024-05-31,Potential Loyal,64,12,1149748,9
+C0252,50,Female,Mumbai,Regular,2024-09-03,Loyal Customers,34,14,1530247,12
+C0270,47,Male,Chennai,Premium,2024-11-24,Potential Loyal,26,8,939164,8
+C0213,63,Female,Pune,Regular,2024-08-29,Loyal Customers,20,12,1188987,11
+C0114,63,Female,Pune,Regular,2024-05-04,Champions,0,16,1548440,15
+C0059,36,Female,Chennai,Budget,2024-10-11,Loyal Customers,56,14,1232247,11
+C0264,60,Female,Hyderabad,Budget,2024-03-20,At Risk,28,5,387749,5
+C0460,51,Female,Mumbai,Budget,2024-09-20,At Risk,20,7,377579,5
+C0443,38,Male,Pune,Premium,2024-05-16,At Risk,34,5,562850,4
+C0276,19,Male,Delhi,Regular,2024-05-01,Loyal Customers,29,12,1038698,11
+C0013,22,Male,Chennai,Premium,2024-05-28,Potential Loyal,29,9,652911,7
+C0467,59,Male,Chennai,Premium,2024-10-25,At Risk,125,6,799618,4
+C0274,56,Male,Bangalore,Premium,2024-03-07,Potential Loyal,14,8,864392,9
+C0392,20,Female,Bangalore,Budget,2024-07-22,At Risk,27,7,653885,6
+C0109,60,Male,Bangalore,Budget,2024-12-05,Potential Loyal,35,11,864734,8
+C0331,33,Male,Mumbai,Regular,2024-04-11,Potential Loyal,0,7,283960,7
+C0129,37,Female,Pune,Budget,2024-10-06,Potential Loyal,42,9,908276,7
+C0052,24,Male,Mumbai,Premium,2024-10-01,Loyal Customers,41,17,1364625,12
+C0356,29,Male,Bangalore,Regular,2024-04-08,Champions,1,12,1453967,14
+C0127,44,Female,Hyderabad,Budget,2024-01-11,Potential Loyal,22,9,1049489,9
+C0348,53,Female,Bangalore,Regular,2024-12-02,Potential Loyal,18,7,633006,7
+C0090,24,Female,Delhi,Regular,2024-04-23,Potential Loyal,23,9,870371,8
+C0417,22,Female,Bangalore,Premium,2024-12-30,At Risk,22,7,767709,6
+C0388,26,Male,Bangalore,Budget,2024-06-22,Loyal Customers,40,16,1061392,11
+C0021,22,Male,Hyderabad,Budget,2024-06-10,At Risk,195,6,463236,3
+C0193,37,Female,Bangalore,Budget,2024-10-03,Loyal Customers,22,14,1154224,12
+C0181,46,Female,Hyderabad,Regular,2024-06-05,Potential Loyal,34,10,975176,8
+C0081,65,Female,Hyderabad,Budget,2024-08-06,Potential Loyal,33,9,1147144,9
+C0069,26,Female,Pune,Regular,2024-02-07,Potential Loyal,72,11,1100547,8
+C0029,51,Female,Hyderabad,Premium,2024-12-14,At Risk,27,8,332188,6
+C0407,59,Female,Bangalore,Regular,2024-10-17,At Risk,28,6,380753,5
+C0118,51,Female,Pune,Budget,2024-09-15,Potential Loyal,20,9,641543,7
+C0104,53,Male,Mumbai,Regular,2024-12-06,Loyal Customers,43,13,1363984,11
+C0311,46,Female,Pune,Budget,2024-08-14,Champions,13,13,1238327,13
+C0247,34,Male,Chennai,Premium,2024-11-17,Potential Loyal,42,11,756845,7
+C0448,49,Female,Pune,Premium,2024-02-16,Loyal Customers,6,10,917772,11
+C0405,28,Male,Mumbai,Budget,2024-12-13,Loyal Customers,36,14,1127306,11
+C0146,42,Female,Chennai,Premium,2024-02-08,Potential Loyal,101,11,1124813,8
+C0377,64,Female,Delhi,Regular,2024-05-01,At Risk,55,8,747335,6
+C0401,63,Female,Mumbai,Budget,2024-08-15,At Risk,90,8,488442,4
+C0083,27,Male,Bangalore,Budget,2024-10-09,Loyal Customers,24,13,867951,10
+C0225,44,Male,Delhi,Regular,2024-05-15,Potential Loyal,13,8,595770,7
+C0100,61,Male,Bangalore,Regular,2024-02-05,Potential Loyal,34,10,1000498,9
+C0500,64,Female,Chennai,Regular,2024-04-05,At Risk,37,9,551652,5
+C0343,39,Male,Hyderabad,Budget,2024-03-29,At Risk,24,6,787128,6
+C0378,37,Male,Delhi,Premium,2024-08-02,Champions,6,15,1805378,15
+C0372,41,Male,Delhi,Regular,2024-02-20,Champions,0,10,1505147,13
+C0116,29,Female,Delhi,Budget,2024-05-07,Loyal Customers,29,11,1145851,10
+C0449,43,Female,Mumbai,Premium,2024-10-25,Potential Loyal,10,10,794091,9
+C0128,54,Female,Pune,Premium,2024-06-29,Potential Loyal,21,10,711848,8
+C0039,26,Female,Hyderabad,Premium,2024-05-15,At Risk,54,6,441592,4
+C0080,39,Male,Chennai,Regular,2024-03-23,Loyal Customers,6,11,1007542,12
+C0245,56,Female,Bangalore,Premium,2024-11-06,Loyal Customers,16,14,782396,11
+C0195,45,Female,Hyderabad,Regular,2024-01-14,At Risk,14,6,284309,6
+C0438,43,Female,Pune,Premium,2024-12-18,Potential Loyal,58,10,959189,7
+C0075,60,Male,Mumbai,Regular,2024-02-29,At Risk,17,6,355377,6
+C0216,39,Female,Delhi,Regular,2024-06-01,At Risk,37,9,638955,6
+C0204,43,Male,Chennai,Budget,2024-08-24,Loyal Customers,17,14,742347,11
+C0244,35,Male,Hyderabad,Budget,2024-01-26,Loyal Customers,4,9,814618,10
+C0296,39,Male,Pune,Regular,2024-12-06,Loyal Customers,15,14,787511,11
+C0167,35,Female,Bangalore,Premium,2024-03-02,At Risk,104,9,712773,5
+C0196,23,Male,Chennai,Budget,2024-10-27,Potential Loyal,42,10,975851,9
+C0139,21,Female,Mumbai,Budget,2024-02-05,Loyal Customers,4,11,684113,10
+C0212,27,Female,Chennai,Regular,2024-09-17,At Risk,90,7,780123,4
+C0281,57,Male,Chennai,Budget,2024-09-23,Potential Loyal,51,10,635743,7
+C0303,35,Male,Mumbai,Regular,2024-12-25,Potential Loyal,19,7,692491,7
+C0277,55,Female,Delhi,Premium,2024-05-15,Potential Loyal,72,11,1027704,8
+C0327,23,Female,Bangalore,Budget,2024-06-22,At Risk,60,8,946933,6
+C0253,36,Female,Delhi,Regular,2024-02-08,Loyal Customers,3,12,944683,12
+C0093,39,Female,Delhi,Regular,2024-06-28,Loyal Customers,6,9,1417472,12
+C0063,48,Male,Delhi,Budget,2024-02-11,At Risk,104,8,707795,5
+C0163,46,Male,Delhi,Regular,2024-04-23,Loyal Customers,29,11,1158959,10
+C0461,26,Female,Hyderabad,Regular,2024-03-24,Loyal Customers,24,13,1261204,12
+C0001,58,Male,Delhi,Budget,2024-05-20,At Risk,123,6,557684,3
+C0055,24,Male,Chennai,Budget,2024-01-08,At Risk,142,10,609013,6
+C0273,55,Male,Mumbai,Regular,2024-03-16,Loyal Customers,15,12,1164559,12
+C0383,29,Male,Hyderabad,Regular,2024-02-04,Loyal Customers,2,10,1100681,12
+C0406,46,Male,Mumbai,Premium,2024-04-30,Loyal Customers,43,13,1391518,11
+C0004,19,Male,Mumbai,Premium,2024-09-15,Loyal Customers,4,11,737491,10
+C0416,23,Female,Chennai,Regular,2024-12-29,Loyal Customers,10,11,985682,11
+C0376,19,Female,Mumbai,Premium,2024-10-07,Potential Loyal,31,7,1075464,8
+C0287,36,Female,Hyderabad,Budget,2024-08-08,Loyal Customers,32,10,1080575,10
+C0137,39,Female,Bangalore,Regular,2024-05-09,Potential Loyal,9,9,702447,8
+C0098,25,Female,Hyderabad,Premium,2024-05-10,Potential Loyal,30,9,796821,7
+C0320,40,Male,Pune,Budget,2024-01-22,Potential Loyal,23,7,809658,7
+C0340,42,Female,Hyderabad,Budget,2024-01-22,Potential Loyal,35,11,1202470,9
+C0202,36,Female,Hyderabad,Premium,2024-08-20,At Risk,28,8,417205,6
+C0466,58,Male,Hyderabad,Regular,2024-05-15,At Risk,59,7,797077,4
+C0442,26,Female,Hyderabad,Budget,2024-02-24,Loyal Customers,1,11,1037556,12
+C0041,30,Female,Pune,Budget,2024-11-28,Loyal Customers,20,13,1031060,11
+C0381,33,Male,Bangalore,Regular,2024-01-01,At Risk,51,7,611598,5
+C0444,46,Male,Mumbai,Premium,2024-01-26,Loyal Customers,95,14,1159759,10
+C0312,44,Female,Mumbai,Budget,2024-02-28,Potential Loyal,0,9,601766,8
+C0314,61,Female,Hyderabad,Budget,2024-06-06,Loyal Customers,9,9,1280496,11
+C0233,41,Female,Mumbai,Premium,2024-09-28,Champions,27,17,1734147,13
+C0394,30,Female,Bangalore,Premium,2024-12-01,Potential Loyal,13,9,754841,8
+C0374,36,Female,Chennai,Premium,2024-12-27,At Risk,45,11,580251,6
+C0061,31,Male,Hyderabad,Budget,2024-10-04,At Risk,9,7,516198,6
+C0219,42,Female,Bangalore,Premium,2024-12-23,Loyal Customers,52,15,1507537,12
+C0203,23,Female,Bangalore,Regular,2024-02-29,Loyal Customers,1,9,1053446,11
+C0364,41,Female,Pune,Regular,2024-07-14,Potential Loyal,13,9,688249,8
+C0473,65,Male,Chennai,Premium,2024-09-22,Loyal Customers,8,12,910747,12
+C0371,43,Female,Mumbai,Regular,2024-02-11,Potential Loyal,0,9,710492,9
+C0073,28,Female,Hyderabad,Budget,2024-06-03,Potential Loyal,18,7,841261,8
+C0316,18,Male,Bangalore,Premium,2024-03-11,Potential Loyal,29,10,960378,9
+C0074,57,Male,Chennai,Budget,2024-06-02,At Risk,65,7,648432,4
+C0261,44,Male,Mumbai,Premium,2024-01-20,Potential Loyal,0,6,575590,7
+C0206,57,Female,Chennai,Regular,2024-01-27,Loyal Customers,48,13,1237693,11
+C0107,45,Female,Pune,Regular,2024-08-14,Potential Loyal,13,7,821512,8
+C0254,27,Male,Chennai,Budget,2024-12-11,Loyal Customers,19,13,1029532,12
+C0101,60,Female,Hyderabad,Regular,2024-12-05,At Risk,28,7,535087,5
+C0057,48,Male,Pune,Premium,2024-03-25,Loyal Customers,17,10,812126,10
+C0148,61,Male,Hyderabad,Premium,2024-06-26,Potential Loyal,72,10,847121,7
+C0211,32,Male,Pune,Premium,2024-11-27,At Risk,130,5,413335,3
+C0291,64,Male,Bangalore,Regular,2024-06-09,Potential Loyal,35,13,839575,9
+C0239,22,Female,Bangalore,Budget,2024-06-02,At Risk,53,3,110206,4
+C0297,45,Male,Bangalore,Budget,2024-06-08,At Risk,29,6,576660,5
+C0172,63,Male,Bangalore,Premium,2024-01-28,At Risk,78,9,773432,5
+C0030,64,Male,Chennai,Budget,2024-05-16,At Risk,39,7,857539,6
+C0363,52,Male,Bangalore,Regular,2024-04-09,Potential Loyal,52,10,639357,7
+C0018,28,Female,Pune,Regular,2024-11-23,Loyal Customers,4,8,847091,10
+C0010,40,Female,Delhi,Budget,2024-08-23,At Risk,38,5,407413,4
+C0478,33,Female,Hyderabad,Regular,2024-04-25,Potential Loyal,18,8,349260,7
+C0464,48,Male,Bangalore,Regular,2024-12-10,Potential Loyal,53,11,1027547,9
+C0002,33,Male,Mumbai,Budget,2024-02-22,Loyal Customers,61,16,1455046,11
+C0404,22,Female,Bangalore,Budget,2024-12-13,At Risk,42,7,691377,5
+C0125,27,Male,Delhi,Regular,2024-07-27,Potential Loyal,12,10,672214,9
+C0165,41,Female,Hyderabad,Budget,2024-06-25,Potential Loyal,48,11,665299,7
+C0123,35,Female,Bangalore,Budget,2024-02-11,At Risk,29,6,769432,6
+C0368,36,Male,Mumbai,Regular,2024-08-18,Loyal Customers,14,10,802384,10
+C0459,20,Male,Chennai,Regular,2024-08-30,At Risk,23,6,645085,6
+C0324,19,Female,Mumbai,Budget,2024-08-23,At Risk,118,8,518710,4
+C0113,47,Female,Chennai,Budget,2024-04-09,Loyal Customers,39,15,1390223,12
+C0168,64,Male,Bangalore,Premium,2024-10-01,Loyal Customers,11,12,1029693,12
+C0241,37,Male,Pune,Regular,2024-02-24,Potential Loyal,35,9,1169190,8
+C0235,57,Female,Hyderabad,Budget,2024-05-03,At Risk,209,7,934207,5
+C0341,46,Male,Bangalore,Budget,2024-08-31,Potential Loyal,3,7,297960,7
+C0180,44,Male,Hyderabad,Regular,2024-08-18,Potential Loyal,31,6,991466,8
+C0111,37,Male,Mumbai,Premium,2024-01-13,At Risk,107,7,807731,5
+C0015,47,Female,Mumbai,Regular,2024-06-30,At Risk,267,6,811310,5
+C0298,40,Male,Hyderabad,Budget,2024-04-18,Potential Loyal,44,10,1058634,9
+C0140,59,Male,Delhi,Premium,2024-04-12,At Risk,183,3,694813,4
+C0422,37,Female,Chennai,Budget,2024-09-02,At Risk,60,9,955497,6
+C0066,55,Male,Hyderabad,Premium,2024-08-02,Champions,21,15,1728514,13
+C0065,33,Female,Delhi,Budget,2024-05-06,Potential Loyal,12,8,578289,7
+C0040,51,Female,Mumbai,Budget,2024-12-19,Loyal Customers,5,11,1114971,12
+C0342,50,Male,Delhi,Regular,2024-02-22,Champions,4,16,1475196,15
+C0301,32,Female,Hyderabad,Budget,2024-11-10,Loyal Customers,36,12,1180031,10
+C0047,60,Female,Mumbai,Budget,2024-03-08,Champions,25,16,1583364,13
+C0209,56,Male,Chennai,Premium,2024-06-08,At Risk,35,5,315448,4
+C0060,60,Female,Mumbai,Premium,2024-05-31,Potential Loyal,1,7,500180,7
+C0352,23,Female,Hyderabad,Regular,2024-11-25,Potential Loyal,31,9,630014,7
+C0481,53,Female,Bangalore,Premium,2024-10-20,At Risk,39,9,740761,6
+C0227,61,Female,Bangalore,Budget,2024-09-06,At Risk,42,5,327922,4
+C0453,43,Female,Delhi,Regular,2024-01-27,Champions,0,11,1392172,13
+C0302,61,Male,Hyderabad,Budget,2024-12-21,Potential Loyal,73,11,1780297,9
+C0166,45,Female,Bangalore,Budget,2024-08-20,Potential Loyal,50,9,881013,7
+C0354,51,Male,Chennai,Budget,2024-08-04,Loyal Customers,1,11,706815,10
+C0479,37,Female,Chennai,Premium,2024-12-19,Potential Loyal,37,11,1143291,9
+C0237,34,Female,Bangalore,Budget,2024-01-05,Potential Loyal,10,10,779121,9
+C0434,23,Male,Chennai,Budget,2024-05-15,Champions,8,12,1172388,13
+C0451,56,Female,Bangalore,Budget,2024-01-05,At Risk,177,2,103372,3
+C0224,51,Female,Delhi,Budget,2024-03-14,At Risk,139,6,442944,3
+C0426,55,Male,Mumbai,Regular,2024-09-14,At Risk,44,6,778818,5
+C0427,21,Male,Hyderabad,Premium,2024-06-04,Potential Loyal,62,11,1138292,8
+C0454,54,Male,Bangalore,Budget,2024-05-27,Potential Loyal,38,10,1015697,9
+C0131,45,Female,Delhi,Regular,2024-06-21,At Risk,84,9,968676,6
+C0230,45,Male,Chennai,Budget,2024-02-21,At Risk,45,8,543031,5
+C0362,46,Female,Chennai,Regular,2024-04-29,At Risk,105,9,598512,4
+C0358,24,Male,Chennai,Regular,2024-11-12,Potential Loyal,8,7,812588,9
+C0366,26,Female,Delhi,Budget,2024-09-03,Loyal Customers,5,8,847386,10
+C0035,52,Male,Hyderabad,Regular,2024-09-07,Potential Loyal,72,11,1206970,9
+C0390,48,Male,Mumbai,Premium,2024-08-22,At Risk,174,7,493504,3
+C0175,48,Female,Pune,Regular,2024-04-04,Champions,13,12,1579859,13
+C0430,58,Female,Mumbai,Budget,2024-06-04,At Risk,117,7,373673,3
+C0133,26,Male,Pune,Budget,2024-10-15,Potential Loyal,43,9,908479,7
+C0099,20,Female,Delhi,Budget,2024-10-02,At Risk,18,5,523327,6
+C0201,28,Female,Pune,Budget,2024-09-10,Champions,11,14,1073175,13
+C0217,55,Female,Mumbai,Regular,2024-10-02,Champions,13,14,1016033,13
+C0437,36,Female,Pune,Premium,2024-12-16,At Risk,50,6,503133,4
+C0447,30,Male,Pune,Budget,2024-08-27,Potential Loyal,48,8,959737,7
+C0184,28,Male,Mumbai,Budget,2024-02-08,At Risk,109,8,676744,5
+C0102,25,Female,Hyderabad,Regular,2024-12-07,Loyal Customers,30,13,944650,10
+C0189,60,Male,Pune,Premium,2024-10-05,Potential Loyal,28,10,875958,9
+C0446,28,Female,Hyderabad,Budget,2024-06-09,Potential Loyal,2,5,308945,7
+C0082,53,Male,Delhi,Premium,2024-12-19,At Risk,65,5,653335,4
+C0458,30,Female,Hyderabad,Premium,2024-01-24,Loyal Customers,31,12,1348567,12
+C0200,44,Female,Bangalore,Budget,2024-02-23,At Risk,42,8,752507,6
+C0025,55,Female,Bangalore,Premium,2024-03-11,Loyal Customers,5,8,920164,10
+C0183,31,Male,Bangalore,Budget,2024-02-11,Potential Loyal,0,5,580427,7
+C0489,24,Female,Bangalore,Budget,2024-08-29,Potential Loyal,51,11,838907,8
+C0121,51,Female,Chennai,Premium,2024-05-20,Potential Loyal,77,9,994904,7
+C0420,19,Female,Hyderabad,Budget,2024-07-07,Potential Loyal,15,7,977265,9
+C0284,49,Female,Delhi,Premium,2024-06-13,At Risk,66,6,561887,3
+C0157,42,Female,Delhi,Regular,2024-06-15,Potential Loyal,15,7,1030715,9
+C0355,50,Female,Delhi,Regular,2024-06-07,At Risk,28,2,392547,5
+C0384,51,Male,Pune,Regular,2024-01-23,Potential Loyal,38,8,970073,7
+C0309,56,Male,Delhi,Premium,2024-03-21,Potential Loyal,7,5,292774,7
+C0310,57,Male,Chennai,Premium,2024-05-19,Potential Loyal,16,8,689779,8
+C0186,56,Female,Bangalore,Premium,2024-04-28,At Risk,18,6,352539,6
+C0205,44,Male,Mumbai,Budget,2024-07-04,Loyal Customers,8,13,974864,12
+C0482,61,Female,Pune,Regular,2024-03-15,Loyal Customers,8,7,1246729,11
+C0476,39,Female,Chennai,Budget,2024-12-14,At Risk,113,7,757741,4
+C0282,37,Female,Chennai,Premium,2024-02-01,At Risk,37,6,398240,4
+C0418,63,Male,Bangalore,Budget,2024-04-24,At Risk,120,4,364621,3
+C0262,37,Female,Delhi,Premium,2024-04-30,Potential Loyal,13,6,690958,7
+C0147,55,Male,Delhi,Budget,2024-06-03,At Risk,32,7,627504,6
+C0054,47,Male,Delhi,Regular,2024-10-08,At Risk,62,9,919717,6
+C0469,42,Male,Chennai,Premium,2024-01-17,At Risk,74,9,695732,5
+C0036,19,Male,Bangalore,Regular,2024-05-02,At Risk,14,5,268582,6
+C0130,56,Male,Pune,Premium,2024-05-19,Potential Loyal,11,8,804070,9
+C0240,58,Female,Chennai,Regular,2024-08-21,At Risk,150,3,199572,3
+C0178,61,Male,Mumbai,Premium,2024-10-15,Potential Loyal,25,8,743758,7
+C0228,52,Male,Hyderabad,Premium,2024-04-30,At Risk,40,6,580757,4
+C0038,64,Female,Delhi,Budget,2024-03-05,At Risk,82,7,1005734,6
+C0283,48,Female,Pune,Budget,2024-02-25,At Risk,59,5,265714,3
+C0492,36,Female,Bangalore,Budget,2024-01-31,Potential Loyal,6,7,746064,8
+C0187,36,Female,Chennai,Regular,2024-02-06,At Risk,33,6,727517,6
+C0334,46,Female,Chennai,Regular,2024-03-18,At Risk,99,7,968498,5
+C0439,21,Male,Pune,Regular,2024-09-04,At Risk,47,7,449241,4
+C0042,41,Female,Hyderabad,Regular,2024-03-02,At Risk,33,3,64609,5
+C0120,46,Female,Mumbai,Budget,2024-05-21,At Risk,19,5,509631,6
+C0234,44,Male,Mumbai,Premium,2024-02-10,At Risk,61,2,251804,3

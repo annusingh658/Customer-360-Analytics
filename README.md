@@ -413,11 +413,18 @@ Future improvements:
 ---
 
 # 👨‍💻 Project Technologies
-SQL
-Python
-Pandas
-NumPy
-Scikit-Learn
-Random Forest
-Power BI
-DAX
+---SQL 
+
+---Python
+
+---Pandas
+
+---NumPy
+
+---Scikit-Learn
+
+---Random Forest
+
+---Power BI
+
+---DAX
